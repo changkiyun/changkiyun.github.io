@@ -1,8 +1,8 @@
 ---
 title: "🎇 1. gatsby-starter-hoodie 에 대하여"
 description: "gatsby-starter-hoodie 에 대해 배워봅시다."
-date: 2021-04-01
-update: 2021-04-01
+date: 2021-04-04
+update: 2021-04-04
 tags:
   - hoodie
   - about

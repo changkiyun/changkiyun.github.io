@@ -1,8 +1,8 @@
 ---
 title: "🤩 4. 그 외 팁들"
 description:
-date: 2021-04-04
-update: 2021-04-04
+date: 2021-04-01
+update: 2021-04-01
 tags:
   - hoodie
   - other-tips
